@@ -1,3 +1,5 @@
+[![](https://badge.imagelayers.io/andreisusanu/nginx-php7:latest.svg)](https://imagelayers.io/?images=andreisusanu/nginx-php7:latest)
+
 nginx-php7
 =============
 
