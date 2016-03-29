@@ -23,5 +23,6 @@ Run
 docker run \
     --name nginx-php7 \
     -p 80:80 \
+    -v /path/to/local/www:/var/www/html \
     andreisusanu/nginx-php7
 ```
